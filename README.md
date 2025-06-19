@@ -17,9 +17,13 @@ This is a **Streamlit web application** that allows you to upload an Excel sheet
 
 ## 📁 Project Structure
 ├── app.py # Streamlit application
+
 ├── template_corrected.html # HTML template (styled with Arabic layout)
+
 ├── requirements.txt # Python dependencies
+
 └── excel_to_html.ipynb # Optional Jupyter notebook for dev/testing
+
 
 
 ---
